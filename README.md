@@ -1,4 +1,3 @@
-[![MasterHead](https://www.thinkwik.com/public/images/technology/android/banner.jpg)]
 <h1 align="center">Hi 👋, I'm Siddharth Pallar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="480" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
