@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Pallar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="480" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
+
 
 <p align="left"> <a href="https://twitter.com/siddharthpallar" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthpallar?logo=twitter&style=for-the-badge" alt="siddharthpallar" /></a> </p>
 
