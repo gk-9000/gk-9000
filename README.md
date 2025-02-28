@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there, I'm Siddharth!</h1>
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f4da01f3-4a77-4b80-a3ea-e70def95e57f">
+</p>
 
 
 
