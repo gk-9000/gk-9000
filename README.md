@@ -1,11 +1,11 @@
-### Hi there, I'm Siddharth! 
+<h1 align="center"> Hi there, I'm Siddharth!</h1>
 
 
 
----
+
 
  **About Me:**
--  Aspiring Data Scientist | 
+-  Aspiring Data Scientist 
 -  Passionate about AI, Machine Learning, and Automation
 -  Love solving complex problems & optimizing workflows
 -  Enthusiastic about F1 and Automotive Technologies
